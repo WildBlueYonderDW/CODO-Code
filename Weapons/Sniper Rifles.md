@@ -108,8 +108,18 @@
 | Icon | Name |
 | :--: | :--: | 
 | | | | | 
-![wea_m14ebr_item_icon](https://github.com/user-attachments/assets/de6f58c0-0089-40c2-9da9-db366ec9c462)<br> Default | m21ebr | 
+![wea_m21ebr_item_icon](https://github.com/user-attachments/assets/c9c2a1d3-36b9-4813-a173-f431072664d8)<br> Default | m21ebr_blk | 
+<details>
+<summary> Skins </summary>
 
+| Icon | Name |
+| :--: | :--: |
+| | | | | 
+![wea_m21ebrsupplydp_item_icon](https://github.com/user-attachments/assets/32196c31-31cd-4d34-9bfe-a4cc2155a168)<br> Default | m21ebrsupplydp | 
+![wea_m21ebrbattlepass_item_icon](https://github.com/user-attachments/assets/7330f353-9817-4390-bdc3-c5e3f5778bca)<br> Default | m21ebrbattlepass | 
+![wea_m21ebrirradiated_item_icon](https://github.com/user-attachments/assets/2790cc41-3ed5-4ec5-b748-7d9f5df14fc6)<br> Default | m21ebrirradiated | 
+![wea_m21ebrred_item_icon](https://github.com/user-attachments/assets/d92bef1b-bd1b-4d0d-a1cc-ad2a875e27eb)<br> Default | m21ebrred | 
+</details>
 
 # Remington MSR
 
